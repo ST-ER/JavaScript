@@ -1,7 +1,3 @@
-//"use strict"; //Включает строгий режим ядра
-let string = "foo";
-const array = ["f", "o", "o"];
-var number = 10; //Переменная VAR уже не используется из-за области вид..
-
+"use strict";
+let number = Math.floor(Math.random() * 100 + 50);
 console.log(number);
-let str = "hello";
