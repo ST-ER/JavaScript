@@ -1,5 +1,5 @@
 "use strict";
-const number = "123";
+const number = 123;
 
 //if (typeof number === "number") {
 if (isNaN(number)) {
